@@ -1,0 +1,19 @@
+# Django
+*.pyc
+__pycache__/
+myvenv/
+db.sqlite3
+/static/
+/media/
+
+# Next.js
+node_modules/
+.next/
+out/
+.cache/
+yarn-error.log
+yarn.lock
+
+# Code editor
+.vscode/
+.idea/
